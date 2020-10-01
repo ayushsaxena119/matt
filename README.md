@@ -1,3 +1,3 @@
 
-Matt : My awsome website!
+Matt : My awesome website!
 ====
